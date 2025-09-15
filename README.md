@@ -182,7 +182,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PrathamJ19&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
