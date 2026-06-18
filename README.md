@@ -181,13 +181,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrathamJ19&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YourGitHubUsername&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
